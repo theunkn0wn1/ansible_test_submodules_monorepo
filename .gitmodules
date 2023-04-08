@@ -1,0 +1,8 @@
+[submodule "submodule3"]
+	path = submodule3
+	url = https://github.com/theunkn0wn1/ansible_test_submodules_subm3.git
+	branch = user/theunkn0wn1/random_branch
+[submodule "submodule4"]
+	path = submodule4
+	url = https://github.com/theunkn0wn1/ansible_test_submodules_subm4.git
+        branch = main
